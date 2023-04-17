@@ -11,6 +11,7 @@ It is a project management tool for XYZSoft, a software house that provides serv
 ## Requirements
 - Java 8 or later
 - Apache POI library for working with Excel files
+- Java AWT
 
 ## How to use
 1. Clone this repository
