@@ -23,4 +23,4 @@ It is a project management tool for XYZSoft, a software house that provides serv
 
 ## Screenshot
 
-<img src="https://user-images.githubusercontent.com/65549274/232628757-eaba92ff-45c7-42d9-9915-813f272d49f4.jpg" width="400">
+<img src="https://user-images.githubusercontent.com/65549274/232628757-eaba92ff-45c7-42d9-9915-813f272d49f4.jpg" width="600">
